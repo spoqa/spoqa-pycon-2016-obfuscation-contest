@@ -4,7 +4,7 @@ import sys
 
 def test(equation):
     expression, answer = equation.split('=')
-    p = subprocess.Popen(['python', 'calc.py', expression],
+    p = subprocess.Popen(['python3', 'calc.py', expression],
                          stdout=subprocess.PIPE,
                          stderr=subprocess.PIPE)
     result, _ = p.communicate()
