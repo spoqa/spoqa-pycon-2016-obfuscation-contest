@@ -1,6 +1,10 @@
 machine:
-  post:
-    - pyenv global 3.4.2
+  python:
+    version: 3.5.1
+
+  pre:
+    - curl -L -O https://s3-external-1.amazonaws.com/circle-downloads/circle-pyenv-python-3.5.1_1.0_amd64.deb
+    - sudo dpkg -i circle-pyenv-python-3.5.1_1.0_amd64.deb
 
 test:
   override:
