@@ -1,0 +1,6 @@
+1+1=2
+10 - 2 * 4 = 2
+10 / 3 = 3.33333333333
+(10 + 42 / 6) * 3 = 51.0
+1.5 * 3 = 4.5
+answer to the ultimate question of life, the universe, and everything = ?
