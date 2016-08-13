@@ -9,7 +9,9 @@
 7 * (5 + 3) / 2 = 28
 7 * 5 + 3 / 2 = 36.5
 7 + 5 / 3 + 2 = 10.6666666667
++3/ 7*(2- 6 ) = -1.71428571428
 answer to the ultimate question of life, the universe, and everything = ?
 (1+1 = ?
 1+ = ?
 1/0 = ?
+2(3) = ?
