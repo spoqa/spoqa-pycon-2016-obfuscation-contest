@@ -23,9 +23,11 @@ $ python calc.py "10 - 2 * 4"
 2
 $ python calc.py "10 / 3"
 3.3333333333333335
+$ python calc.py "-4 - 3"
+-7
 $ python calc.py "(10 + 42 / 6) * 3"
 51
-$ python calc.py "1.5 * 3"
+$ python calc.py "+1.5 * 3"
 4.5
 $ python calc.py "answer to the ultimate question of life, the universe, and everything"
 $ echo $?
